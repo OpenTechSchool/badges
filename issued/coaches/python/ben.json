@@ -1,0 +1,19 @@
+{
+"recipient": "sha256$59a312b0c51ca2b62929eb97c9b8e3f82512058598b96a1c5c0765c64ef56460",
+"salt": "mwach01",
+"evidence": "http://www.meetup.com/opentechschool-berlin/events/101148462/", 
+"issued_on": "2013-03-19", 
+"badge": { 
+	"version": "0.13", 
+	"name": "Coaching Python",
+	"image": "http://badges.opentechschool.org/badges/2013_badge_python_coach.png", 
+	"description": "Successfully coaching an OpenTechSchool Python course to beginners", 
+	"criteria": "http://en.wikiversity.org/wiki/MWA/Ch01/criteria", 
+	"issuer": { 
+		"origin": "http://opentechschool.org", 
+		"name": "Benjamin Kampmann", 
+		"org": "OpenTechSchool", 
+		"contact": "ben@OpenTechSchool.org" 
+		} 
+	} 
+}
