@@ -8,10 +8,9 @@
 	"name": "Coaching Python",
 	"image": "http://badges.opentechschool.org/badges/2013_badge_python_coach.png", 
 	"description": "Successfully coaching an OpenTechSchool Python course to beginners", 
-	"criteria": "http://en.wikiversity.org/wiki/MWA/Ch01/criteria", 
 	"issuer": { 
 		"origin": "http://opentechschool.org", 
-		"name": "Benjamin Kampmann", 
+		"name": "OpenTechSchool", 
 		"org": "OpenTechSchool", 
 		"contact": "ben@opentechschool.org" 
 		} 
