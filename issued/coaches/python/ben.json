@@ -8,6 +8,7 @@
 	"name": "Coaching Python",
 	"image": "http://badges.opentechschool.org/badges/2013_badge_python_coach.png", 
 	"description": "Successfully coaching an OpenTechSchool Python course to beginners", 
+	"criteria": "http://badges.opentechschool.org/badges/#python-coach",
 	"issuer": { 
 		"origin": "http://opentechschool.org", 
 		"name": "OpenTechSchool", 
